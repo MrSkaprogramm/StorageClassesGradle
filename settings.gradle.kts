@@ -1,2 +1,2 @@
-rootProject.name = "StorageClassesGradle"
+rootProject.name = "storage-classes-gradle"
 
